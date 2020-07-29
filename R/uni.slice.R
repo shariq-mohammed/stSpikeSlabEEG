@@ -1,7 +1,3 @@
-####################################################
-### Code by Neal M. Radford. See details below  ###
-####################################################
-
 #' Univariate slice sampling (Radford M. Neal (2008))
 #'
 #' Performs a slice sampling update from an initial point to a new point that leaves invariant the distribution with the specified log density function.
@@ -12,12 +8,17 @@
 #' @param m Limit on steps, defaults to \eqn{\infty}
 #' @param lower Lower bound on support of the distribution, defaults to \eqn{-\infty}
 #' @param upper Upper bound on support of the distribution, defaults to \eqn{+\infty}
-#' @param gx0 Value of \eqn{g(x0)}, if known, defaults to \textit{not known}
+#' @param gx0 Value of \eqn{g(x0)}, if known, defaults to \code{not known}
 #' @keywords uni.slice()
 #' @export
 #'
 #' @import grDevices graphics stats
 #' @examples uni.slice()
+
+####################################################
+### Code by Neal M. Radford. See details below  ###
+####################################################
+
 
 # R FUNCTIONS FOR PERFORMING UNIVARIATE SLICE SAMPLING.
 #

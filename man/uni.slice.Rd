@@ -29,7 +29,7 @@ uni.slice(
 
 \item{upper}{Upper bound on support of the distribution, defaults to \eqn{+\infty}}
 
-\item{gx0}{Value of \eqn{g(x0)}, if known, defaults to \textit{not known}}
+\item{gx0}{Value of \eqn{g(x0)}, if known, defaults to \code{not known}}
 }
 \description{
 Performs a slice sampling update from an initial point to a new point that leaves invariant the distribution with the specified log density function.

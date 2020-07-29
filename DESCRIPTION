@@ -1,6 +1,6 @@
 Package: stSpikeSlabEEG
 Type: Package
-Title: Classification Models For Electroencephalography Data.
+Title: Classification Models For Electroencephalography Data
 Version: 0.1.0
 Author: Shariq Mohammed <shariq.mohammed@uconn.edu>
 Maintainer: Shariq Mohammed <shariq.mohammed@uconn.edu>
@@ -23,3 +23,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+Depends: 
+    R (>= 2.10)

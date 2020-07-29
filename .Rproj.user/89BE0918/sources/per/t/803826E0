@@ -1,0 +1,24 @@
+{
+    "id": "803826E0",
+    "path": "~/GitHub/stSpikeSlabEEG/R/uni.slice.R",
+    "project_path": "R/uni.slice.R",
+    "type": "r_source",
+    "hash": "1572945102",
+    "contents": "",
+    "dirty": false,
+    "created": 1596059877858.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "21,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1596060261,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596060261709,
+    "read_only": false,
+    "read_only_alternatives": []
+}
